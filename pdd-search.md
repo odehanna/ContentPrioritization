@@ -11,7 +11,7 @@
 
 - Website branding, logo
 - Primary navigation
-- 
+
 
 ## 3. Low
 

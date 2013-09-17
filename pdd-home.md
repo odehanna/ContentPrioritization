@@ -3,7 +3,6 @@
 ## 1. High
 
 - Link to list of the most beautiful tropical birds 
-- Hero presentation of random, special volcano
 - list of endangered species
 - List of some origings where birds can be found
 - Search
@@ -12,7 +11,7 @@
 
 - Website branding, logo
 - Primary navigation
-- 
+
 
 ## 3. Low
 
